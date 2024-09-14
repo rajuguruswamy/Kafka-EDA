@@ -43,7 +43,7 @@ npm install dotenv
         }
         ```
 ### b. app1 publish message to kafka topic1 and save to postgress database
-### c. app1 consume kafka message and store in to mongodb.
+### c. app2 consume kafka message and store in to mongodb.
 
 
 ### reference 
